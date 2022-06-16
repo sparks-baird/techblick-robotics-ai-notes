@@ -102,3 +102,11 @@ Formulation optimization, liquid formulations (e.g. coatings)
 ![image](https://user-images.githubusercontent.com/45469701/174092831-3d60219b-b311-4963-8e32-6be28dc7fd1e.png)
 
 "Not so much an algorithm as a process"
+
+## Randal Snurr
+
+## Fazal Mahmood
+
+## Joshua Stuckner
+
+## Andrew Detor

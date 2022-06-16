@@ -75,3 +75,30 @@ Proven Domains
 - Polymers/Composites, Photovoltaics, Building Materials, Nanotech 
 - Health and Wellness, Batteries, Hydrogen, Metals, Alloys 
 - 3D Printing, 2D Printing, Surfaces, Films, Packaging, Chemicals
+
+## Scott Genin
+### OTI Lumionics
+
+Compare with Schrodinger. iterative Qubit Coupled Cluster
+
+## Minki Hong
+### Kyulux
+
+## Milad Abolhasani
+
+## Keith A. Brown
+
+![image](https://user-images.githubusercontent.com/45469701/174089032-50d7a7c4-e79a-4745-a8d0-6b5d192ba3b3.png)
+
+http://kablab.org/
+
+![image](https://user-images.githubusercontent.com/45469701/174089435-2750b29d-a839-413f-af65-2222edaba16f.png)
+
+## Newel Washburn
+### Ansatz AI
+
+Formulation optimization, liquid formulations (e.g. coatings)
+
+![image](https://user-images.githubusercontent.com/45469701/174092831-3d60219b-b311-4963-8e32-6be28dc7fd1e.png)
+
+"Not so much an algorithm as a process"

@@ -136,3 +136,11 @@ Adopting a more event-based model, keeping track of the state of the model. Many
 ### Kebotix
 
 https://www.kebotix.com/
+
+
+## Curtis Berlinguette
+![image](https://user-images.githubusercontent.com/45469701/174129267-f6601952-e99d-49ec-86c3-e86f58773395.png)
+
+![image](https://user-images.githubusercontent.com/45469701/174129451-cd38b253-3ed0-40d0-9e83-a7324d416ea9.png)
+
+![image](https://user-images.githubusercontent.com/45469701/174129606-b6626646-74cc-4203-9eff-f4160d720dc1.png)

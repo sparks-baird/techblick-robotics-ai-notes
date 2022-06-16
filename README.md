@@ -109,9 +109,30 @@ Formulation optimization, liquid formulations (e.g. coatings)
 
 ## Joshua Stuckner
 
+https://github.com/nasa/pretrained-microscopy-models
+
 ## Andrew Detor
+
+https://scholar.google.com/citations?user=ofwM5BMAAAAJ&hl
 
 ## Maryam Emami
 ### AI Materia
 
 http://www.aimateria.com/
+
+## Joseph Montoya
+### TRI
+![image](https://user-images.githubusercontent.com/45469701/174120804-0ce72e7f-2e5f-44ef-9259-036c5d5292ab.png)
+
+![image](https://user-images.githubusercontent.com/45469701/174121425-3d237b8c-98e0-46dc-8f76-1dd63e99ad45.png)
+
+![image](https://user-images.githubusercontent.com/45469701/174122285-a76875d5-5a79-43dd-9724-f31f0fece1fb.png)
+
+Future of CAMD in multi-fidelity and multi-objective active learning.
+
+Adopting a more event-based model, keeping track of the state of the model. Many-to-one and one-to-one properties like phase stability.
+
+## Christoph Kreisbeck
+### Kebotix
+
+https://www.kebotix.com/

@@ -20,7 +20,7 @@ https://www.materialscloud.org/work/tools/sycofinder
 
 
 ## Anssi Laukkanen
-### VTT
+### [VTT](https://www.vttresearch.com/)
 
 Integrated Computational Materials Engineering
 
@@ -42,4 +42,36 @@ Data Analysis, Surrogates, ROM
 
 Discovery of new electrolytes and electrode materials
 
+## Matthias Kaiser
+[Scholar](https://scholar.google.com/citations?user=apm1khkAAAAJ&hl), LinkedIn
+### Exponential Technologies
 
+https://www.x-t.ai/about-us/
+
+Anamoly detection, explainable AI
+
+## Amir Barnea
+
+### Materials Zone
+
+[Materials Zone](https://www.materials.zone/) - From Materials Data to AI Accelerated Results, Fast!
+
+Similar to another revolution, customer relationship management (CRM), is the revolution of materials informatics platforms (MIPs), also referred to as materials acceleration platforms (MAPs).
+
+Data ingestor format
+
+Interactive exploratory data analysis (EDA): correlation matrices, histogram exploration
+
+Showcase of platform using an open-source database http://www.perovskitedatabase.com/
+
+Proven Use-cases 
+- Innovation - R&D Acceleration - Less/Shorter Cycles 
+- Sales tool - Find optimal formulations rapidly, accurately 
+- Supply Chain - Find cheaper, better, more reliable substitutes 
+- Scale-up - from lab to mass-production, Faster 
+- Manufacturing - Q.C. - stop bad batches early 
+- Cross Functional - Supply Chain, R&D, Manufacturing, Business 
+Proven Domains 
+- Polymers/Composites, Photovoltaics, Building Materials, Nanotech 
+- Health and Wellness, Batteries, Hydrogen, Metals, Alloys 
+- 3D Printing, 2D Printing, Surfaces, Films, Packaging, Chemicals

@@ -19,3 +19,27 @@ HKUST-1 robot using a genetic algorithm to optimize for high crystallinity and h
 https://www.materialscloud.org/work/tools/sycofinder
 
 
+## Anssi Laukkanen
+### VTT
+
+Integrated Computational Materials Engineering
+
+[VTT ProperTune](https://www.vttresearch.com/en/ourservices/computational-material-design-vtt-propertune) as a materials acceleration platform (MAP).
+
+Materials discovery and design:
+- HEADFORE, HIERARCH (AoF)
+- HIDDEN (H2020-BAT)
+- AIMS + synbio activities (VTT)
+Materials optimization, inference, inverse problems
+- COMPASSCO2 (H2020-SPIRE)
+- ENTENTE (H202-EURATOM)
+- EUROfusion (HEU-EUROfusion)
+- ACHIEF (H2020-SPIRE)
+Physics- and data-driven hybrids
+- BF-ISA, BF-AVE (BF)
+Data Analysis, Surrogates, ROM
+- GREENY, CORTOOLS etc. (EIT Raw Materials)
+
+Discovery of new electrolytes and electrode materials
+
+

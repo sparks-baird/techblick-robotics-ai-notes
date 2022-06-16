@@ -110,3 +110,8 @@ Formulation optimization, liquid formulations (e.g. coatings)
 ## Joshua Stuckner
 
 ## Andrew Detor
+
+## Maryam Emami
+### AI Materia
+
+http://www.aimateria.com/
